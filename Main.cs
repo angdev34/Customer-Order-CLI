@@ -34,8 +34,6 @@ class main
     {
 
         Product product = new Product(true);
-        string FilePath = @Path.GetFullPath("Customer Order CLI.sln");
-
         Console.BackgroundColor = ConsoleColor.White;
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.DarkBlue;
